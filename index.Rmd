@@ -53,7 +53,6 @@ Overview of Activities
 # Mission
 MDI harnesses modern computing power to improve public policy.
 
---
 
 <br>
 
@@ -98,7 +97,7 @@ background-image: url("Figures/McCourtTitle.png")
 
 
 #### Achievements
-Georgetown scholars have used cloud computing to connect new forms of large-scale data to societal scale issues ranging from corruption in public-private partnerships to climate change to understanding civil service to global biodiversity. Some projects have created databases that will become shared repositories for researchers  while others involve large-scale simulations.
+Georgetown scholars have used [cloud computing](https://mccourt.georgetown.edu/wp-content/uploads/2019/12/mdi_computing_resources-1.pdf) to connect new forms of large-scale data to societal scale issues ranging from corruption in public-private partnerships to climate change to understanding civil service to global biodiversity. Some projects have created databases that will become shared repositories for researchers  while others involve large-scale simulations.
 
 #### Services
 We provide access to cloud computing for faculty who need large-scale and fast computing resources.  Our services include compute clusters, large-scale databases including Postgres and BigQuery and access to statistical packages for large-scale data and private cloud-based storage. 
@@ -114,7 +113,7 @@ We will be increasing our services next year to include creation of data portals
 ## Research support
 
 #### Achievements
-The [MDI Scholars](https://mccourt.georgetown.edu/news/mccourt-massive-data-institute-scholars-big-data-public-policy/) program provides undergraduate and graduate students from a broad range of disciplines with research experience using large-scale data. The Scholars have participated in over 10 different research projects led by faculty across campus and policy partners such as the World Bank.
+The [MDI Scholars](https://mccourt.georgetown.edu/news/mccourt-massive-data-institute-scholars-big-data-public-policy/) program provides undergraduate and graduate students from a broad range of disciplines with research experience using large-scale data. The Scholars have participated in over 10 different research projects led by faculty across campus and policy partners such as the World Bank and the Justice Innovation Lab.
 
 Funded by a substantial NSF grant, MDI Research Professor Sing directs a interdisciplinary group of scholars who develop research tools for scholars using social media and other modern data in cross-disciplinary research.
 
@@ -167,7 +166,7 @@ background-image: url("Figures/McCourtTitle.png")
 #### Achievements
 MDI works with partners on projects using modern data tools to improve public policy. Partners have included a [government agency](https://www.washingtonpost.com/local/dc-politics/georgetown-university-works-with-dc-agency-to-improve-rental-inspection-policies/2020/01/17/7756a568-3945-11ea-bb7b-265f4554af6d_story.html) in Washington
 
-MDI also sponsors fellows that work directly on policy problems.  One works with the Lab@DC (in the office of the Washington DC Mayor).  Another MDI Fellow works on racial justice in the law with the Justice Innovation Lab.  This effort is sponsored by MDI and the Beeck Center as part of Georgetown's Tech & Society Initiative. Another MDI Fellow works with the Department of Education to help them coordinate sharing of data across units.
+MDI also sponsors fellows that work directly on policy problems.  One works with the [Lab@DC](https://thelab.dc.gov/) (in the office of the Washington DC Mayor).  Another MDI Fellow works on racial justice in the law with the [Justice Innovation Lab](https://www.justiceinnovationlab.org/).  This effort is sponsored by MDI and the Beeck Center as part of [Georgetown's Tech & Society Initiative](https://techandsociety.georgetown.edu/). Another MDI Fellow works with the Department of Education to help them coordinate sharing of data across units.
 
 #### Services
 MDI can work with local governments, public policy organizations and university researchers to create a team that can provide high end data services in a data-driven analysis of a public policy question.
@@ -184,6 +183,7 @@ MDI can work with local governments, public policy organizations and university 
 #### Achievements
 MDI has undertaken projects assessing the nature and content of election information.  This work is joint with the University of Michigan.  This work includes high-profile, current-use [data](https://s3mc.org/political-communication/) on election dynamics at [CNN](https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html).
 
+Work by this group produced a [book](https://www.brookings.edu/book/words-that-matter/) on the media environment in the 2016 election and was the basis for events with [Georgetown's Institute of Politics and Public Service](https://politics.georgetown.edu/).
 
 #### Services
 MDI is eager to collaborate with scholars interested in using our data or building off our experience analyzing campaigns and elections.
@@ -252,7 +252,7 @@ background-image: url("Figures/McCourtTitle.png")
 ## Federal Statistical Research Data Center 
 
 #### Achievements
-The FSRDC is open again!  Thanks to the Restarting Research protocols and collaboration between the McCourt School and Census Bureau, our approved researchers can safely and securely access restricted data.  The FSRDC has generated interest across area non-profits and institutions.  Scholars using our U.S. Census Bureau Research Data Center have produced multiple working papers and journal articles. 
+The [Federal Statistical Research Data Center](https://mccourt.georgetown.edu/research/research-data-center/) is a joint project by the Census Bureau and the Massive Data Institute that provides a secure data lab to enable research on restricted data sets.  The FSRDC has generated interest across area non-profits and institutions.  Scholars using our U.S. Census Bureau Research Data Center have produced multiple [working](https://ideas.repec.org/p/cen/wpaper/18-48.html) [papers](https://www.minneapolisfed.org/research/institute-working-papers/skilled-tradable-services-the-transformation-of-us-high-skill-labor-markets) and [journal articles](https://www.aeaweb.org/articles?id=10.1257/mic.20190029&&from=f).
 
 #### Services
 MDI provides access to non-public U.S. Census data at our secure on-sight U.S. Census Research Data Center.  We support researchers by helping them learn about what data is available, apply for access and, if approved, to access the data.  Executive Director Amy O'Hara serves on the FSRDC Technical Committee and on the FSRDC Budget Committee.  She also works with the Census Bureau to streamline data request processes and improve linkage methods.
@@ -264,7 +264,11 @@ MDI provides access to non-public U.S. Census data at our secure on-sight U.S. C
 
 ## Social Media Data Portals
 
-We have developed four portals to date: election 2020, covid-19, and parenting. These portals are controlled by research teams, but allow for construction of variables from social media and newspaper data through easy to use forms. It is particularly valuable for those with limited large-scale data programming skills. 
+We have developed four portals to date: election 2020, covid-19, and parenting. These portals are controlled by research teams, but allow for construction of variables from social media and newspaper data through easy to use forms.
+
+MDI is partnering with Edunomics to provide school-level finance data for the entire United States.
+
+Our data portal infrastructure will be particularly valuable for those with limited large-scale data programming skills. 
 
 #### Services
 MDI is developing a service that will give researchers access to variables constructed from the Twitter decahose. 
@@ -285,7 +289,6 @@ MDI can provide scholars with access to certain specific data sets.  One is a la
 
 MDI also makes available [administrative data metadata](https://mccourt.georgetown.edu/research/research-data-center/administrative-data-metadata/) obtained through data use agreements with federal and state agencies which show the specific data elements shared with the census in order to improve research designs and increase the specificity of proposals.
 
-We are also exploring whether we can assist in other data access projects.
 
 #### Contacts
 - Amy O'Hara (FSRDC Director)
@@ -302,17 +305,22 @@ background-size: cover
 
 background-image: url("Figures/McCourtTitle.png")
 
-#### Case study
-## School
-## Finance
-## Data
-
+## Case
+## studies
 
 ---
 
+#### Case study
 ## Education Policy
 
 #### MDI Partners with Edunomic to provide data portal for school finance data
+
+.pull-left[
+.center[<img src="Figures/Edunomics.jpg"; style="max-width:500px;float:center;">]
+]
+
+
+.pull-right[
 
 [Edunomics](https://edunomicslab.org/) is a McCourt School research center focused on educational finance.  They have received substantial grant support to provide school-level educational data that will be of interest to policy-makers, educators, parents and others.
 
@@ -321,15 +329,25 @@ MDI is working with Edunomics to create data portals that will enable interested
 #### Contacts
 - Lisa Singh (MDI Research Professor)
 - Laura Anderson (Associate Director, Edunomics)
-
+]
 ---
+
+#### Case study
 ## Student-led projects
 
 #### MDI Partners with National Fisheries Institute to analyze regulatory change
 
+.pull-left[
+.center[<img src="Figures/monthlyImportRefusalByCountryBar.png"; style="max-width:550px;float:center;">]
+
+]
+
+.pull-right[
 The National Fisheries Institute represents seafood importers.  They were interested in understanding the effects of a regulatory change on imports and refusals.  Working with students trained in data-science, MDI produced a report showing that the shift in regulatory authority led to more refusals at the border overall, but fewer safety-based refusals.
 
-This project is part of a broader MDI effort to connect students to policymakers via a portfolio of projects that inform public policy.
+This project is part of a broader MDI effort to connect students to policymakers.
 
-.center[<img src="Figures/monthlyImportRefusalByCountryBar.png"; style="max-width:700px;float:center;">]
-<!-- ![some caption]("Figures/monthlyImportRefusalByCountryBar.png") -->
+#### Contacts
+- Jonathan Beam (MDI Project Coordinator)
+- Michael Bailey (MDI Director)
+]
