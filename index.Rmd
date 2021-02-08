@@ -115,7 +115,7 @@ We will be increasing our services next year to include creation of data portals
 #### Achievements
 The [MDI Scholars](https://mccourt.georgetown.edu/news/mccourt-massive-data-institute-scholars-big-data-public-policy/) program provides undergraduate and graduate students from a broad range of disciplines with research experience using large-scale data. The Scholars have participated in over 10 different research projects led by faculty across campus and policy partners such as the World Bank and the Justice Innovation Lab.
 
-Funded by a substantial NSF grant, MDI Research Professor Sing directs a interdisciplinary group of scholars who develop research tools for scholars using social media and other modern data in cross-disciplinary research.
+Funded by a substantial [NSF grant](http://smrconverge.org/), MDI Research Professor Sing directs a interdisciplinary group of scholars who develop research tools for scholars using social media and other modern data in cross-disciplinary research.
 
 MDI's seed grants have funded Georgetown researchers in Public Policy, Biology, Business, Government, the School of Foreign Service and elsewhere.  Scholars receiving these grants have gone on to raise over $3.5 million in grants.
 
@@ -181,9 +181,9 @@ MDI can work with local governments, public policy organizations and university 
 ## Democracy
 
 #### Achievements
-MDI has undertaken projects assessing the nature and content of election information.  This work is joint with the University of Michigan.  This work includes high-profile, current-use [data](https://s3mc.org/political-communication/) on election dynamics at [CNN](https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html).
+MDI scholars lead an ongoing [research collaboration](https://s3mc.org/) with the University of Michigan that assessing the nature and content of election information.  This work is joint with the University of Michigan.  This work includes high-profile, current-use [data](https://s3mc.org/political-communication/) on election dynamics at [CNN](https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html).
 
-Work by this group produced a [book](https://www.brookings.edu/book/words-that-matter/) on the media environment in the 2016 election and was the basis for events with [Georgetown's Institute of Politics and Public Service](https://politics.georgetown.edu/).
+This group has produced a [book](https://www.brookings.edu/book/words-that-matter/) on the media environment in the 2016 election that was the basis for public events with [Georgetown's Institute of Politics and Public Service](https://politics.georgetown.edu/).
 
 #### Services
 MDI is eager to collaborate with scholars interested in using our data or building off our experience analyzing campaigns and elections.
