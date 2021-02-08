@@ -338,7 +338,7 @@ MDI is working with Edunomics to create data portals that will enable interested
 #### MDI Partners with National Fisheries Institute to analyze regulatory change
 
 .pull-left[
-.center[<img src="Figures/monthlyImportRefusalByCountryBar.png"; style="max-width:550px;float:center;">]
+.center[<img src="Figures/request_monthlyImportRefusalByCountryBar.png"; style="max-width:520px;float:center;">]
 
 ]
 
