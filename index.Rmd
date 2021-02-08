@@ -252,7 +252,7 @@ background-image: url("Figures/McCourtTitle.png")
 ## Federal Statistical Research Data Center 
 
 #### Achievements
-The [Federal Statistical Research Data Center](https://mccourt.georgetown.edu/research/research-data-center/) is a joint project by the Census Bureau and the Massive Data Institute that provides a secure data lab to enable research on restricted data sets.  The FSRDC has generated interest across area non-profits and institutions.  Scholars using our U.S. Census Bureau Research Data Center have produced multiple [working](https://ideas.repec.org/p/cen/wpaper/18-48.html) [papers](https://www.minneapolisfed.org/research/institute-working-papers/skilled-tradable-services-the-transformation-of-us-high-skill-labor-markets) and [journal articles](https://www.aeaweb.org/articles?id=10.1257/mic.20190029&&from=f).
+The [Federal Statistical Research Data Center](https://mccourt.georgetown.edu/research/research-data-center/) is a joint project by the Census Bureau and the Massive Data Institute that provides a secure data lab to enable research on restricted data sets.  The FSRDC has generated interest across area non-profits and institutions.  Scholars using our U.S. Census Bureau Research Data Center have produced multiple [working](https://ideas.repec.org/p/cen/wpaper/18-48.html) [papers](https://www.minneapolisfed.org/research/institute-working-papers/skilled-tradable-services-the-transformation-of-us-high-skill-labor-markets) and [journal articles](https://www.aeaweb.org/articles?id=10.1257/mic.20190029&&from=f).  MDI also provides access to the FSRDC to scholars from Howard University as part of a broader McCourt School initiative to build ties across the two universities.
 
 #### Services
 MDI provides access to non-public U.S. Census data at our secure on-sight U.S. Census Research Data Center.  We support researchers by helping them learn about what data is available, apply for access and, if approved, to access the data.  Executive Director Amy O'Hara serves on the FSRDC Technical Committee and on the FSRDC Budget Committee.  She also works with the Census Bureau to streamline data request processes and improve linkage methods.
@@ -264,9 +264,9 @@ MDI provides access to non-public U.S. Census data at our secure on-sight U.S. C
 
 ## Social Media Data Portals
 
-We have developed four portals to date: election 2020, covid-19, and parenting. These portals are controlled by research teams, but allow for construction of variables from social media and newspaper data through easy to use forms.
+MDI researchers have developed multiple portals on the 2020 election, covid-19 and parenting and will develop more in the future.  Controlled by research teams, these portals allow for construction of variables from social media and newspaper data through easy to use forms.
 
-MDI is partnering with Edunomics to provide school-level finance data for the entire United States.
+MDI is also partnering with Edunomics to provide school-level finance data for the entire United States.
 
 Our data portal infrastructure will be particularly valuable for those with limited large-scale data programming skills. 
 
@@ -322,13 +322,13 @@ background-image: url("Figures/McCourtTitle.png")
 
 .pull-right[
 
-[Edunomics](https://edunomicslab.org/) is a McCourt School research center focused on educational finance.  They have received substantial grant support to provide school-level educational data that will be of interest to policy-makers, educators, parents and others.
+[Edunomics Lab](https://edunomicslab.org/), a McCourt School research center focused on education finance, received substantial grants to assemble and provide the first-ever large set of school-by-school spending data for the U.S.
 
-MDI is working with Edunomics to create data portals that will enable interested parties to access curated and customizable data sets on school finances.
+MDI is working with Edunomics Lab to create data portals that will enable interested parties to access curated and customizable data sets on school expenditures. This dataset will sharpen financial analyses and usher in the next generation of education research by enabling new research on equity, innovation, and productivity at the school level.
 
 #### Contacts
 - Lisa Singh (MDI Research Professor)
-- Laura Anderson (Associate Director, Edunomics)
+- Laura Anderson (Edunomics Lab)
 ]
 ---
 
