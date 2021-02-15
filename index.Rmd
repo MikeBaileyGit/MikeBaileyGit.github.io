@@ -74,7 +74,7 @@ class: hide-logo
 
 
 ```{r, dpi = 3000, out.width="90%", fig.align = 'center', echo = FALSE}
-knitr::include_graphics("Figures/MDI Map 21_02_15.png")
+knitr::include_graphics("Figures/MDI Map 21_02_15.jpg")
 ```
 
 
